@@ -1,9 +1,9 @@
-# colorchangerapp
-a simple ios app that I made for an independent study class in 2017
+# Color Picker
+A simple iOS app that I made for an independent study class in high school.
 
-a [video](https://youtu.be/TIcnNmrcEAM)
+A [video](https://youtu.be/TIcnNmrcEAM).
 
-stuff to do:
-- rotation
-- dragging
-- scale properly
+To Do:
+- Screen rotation
+- Support for dragging
+- Scaling properly across devices
